@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcAPIAppCodeInside1", "CalcAPIAppCodeInside1\CalcAPIAppCodeInside1.csproj", "{FB24FA28-07C2-4548-9705-87E9879A2EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB24FA28-07C2-4548-9705-87E9879A2EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB24FA28-07C2-4548-9705-87E9879A2EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB24FA28-07C2-4548-9705-87E9879A2EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB24FA28-07C2-4548-9705-87E9879A2EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1B1C68-C669-4523-8C68-BDA6C713399C}
+	EndGlobalSection
+EndGlobal
